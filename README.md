@@ -51,8 +51,8 @@ Contents
 [2]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M-DataSheet-2-2r0.pdf
 [3]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M-Quick-Starter-Manual-EVB7-2-2r0.pdf
 [4]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002Mr2-SPIRegs-2-2r0.pdf
-[4]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M Data Sheet v3.1r00.pdf
-[4]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M Programming and Calibration Guide v31r04.pdf
+[5]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M Data Sheet v3.1r00.pdf
+[6]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M Programming and Calibration Guide v31r04.pdf
 
 Support
 -------
