@@ -45,14 +45,14 @@ Contents
  * [LMS7002M_Data_Sheet_v3.1r00.pdf][5] (11th May 2017) - LMS7002Mr3 Data Sheet.
  * [LMS7002M-Quick-Starter-Manual-EVB7-2-2r0.pdf][3] (29th September 2014) - LMS7002M Evaluation Board Quick Start Manual.
  * [LMS7002Mr2-SPIRegs-2-2r0.pdf][4] (26th September 2014) - LMS7002M SPI Register Map.
- * [LMS7002M_Programming_and_Calibration_Guide_v31r04.pdf][6] (24th April 2017) - LMS7002Mr3 SPI Register Map.
+ * [LMS7002M_Programming_and_Calibration_Guide_v31r05.pdf][6] (24th April 2017) - LMS7002Mr3 SPI Register Map.
 
 [1]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Product_Brief.pdf
 [2]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M-DataSheet-2-2r0.pdf
 [3]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M-Quick-Starter-Manual-EVB7-2-2r0.pdf
 [4]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002Mr2-SPIRegs-2-2r0.pdf
 [5]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Data_Sheet_v3.1r00.pdf
-[6]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Programming_and_Calibration_Guide_v31r04.pdf
+[6]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Programming_and_Calibration_Guide_v31r05.pdf
 
 Support
 -------
