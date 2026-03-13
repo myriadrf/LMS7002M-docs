@@ -49,6 +49,7 @@ Contents
  * [LimeLight_modes_description_v01r01.pdf][7] - LMS7002Mr3 LimeLight modes description document.
  * [LimeSDR-USB_channel_alignment_v01r00.pdf][8] - LMS7002Mr3 MIMO channel allignment document.
  * [LMS7002M_Measurements-v1_05.pdf][9] - LMS7002M RF and AnalogMeasurement Results.
+ * [LMS7002M_Power_Supply_Connection_v01r01.pdf][10] - LMS7002M power supply connection.
 
 [1]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Product_Brief.pdf
 [2]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M-DataSheet-2-2r0.pdf
@@ -59,6 +60,7 @@ Contents
 [7]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LimeLight_modes_description_v01r01.pdf
 [8]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LimeSDR-USB_channel_alignment_v01r00.pdf
 [9]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Measurements-v1_05.pdf
+[10]: https://github.com/myriadrf/LMS7002M-docs/raw/master/LMS7002M_Power_Supply_Connection_v01r01.pdf
 
 Support
 -------
